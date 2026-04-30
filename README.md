@@ -19,8 +19,8 @@ Option 3 (Professional “website section”)
 What is Flash USDT?
 Flash USDT is a term used for quick USDT transfer/payment workflows on supported blockchain networks or exchange systems. It helps users complete transactions faster by reducing waiting time and improving efficiency.
 
-Telegram: t.me/flashblockchainn
-WhatsApp: wa.me/13687773928
+Telegram: https://t.me/flashblockchainn
+WhatsApp: https://wa.me/13687773928
 
 How it works (simple)
 You choose the correct USDT network
